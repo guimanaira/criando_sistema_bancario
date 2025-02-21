@@ -18,16 +18,21 @@ exibido o saldo atual da conta. Se o extrato estiver em banco, exibir a mensagem
 Os valores devem ser exibidos utilizando o formato R$ xxx.xx. Exemplo: 1500.45 = R$1500.45
 
 ## 📒 Objetivo Geral
-
 Criar um sistema bancário com as operações: sacar, depositar e visualizar extrato.
 
 ## 🤖 Tecnologias Utilizadas
-
 - Python como linguagem principal
 - Tkinter para criar interfaces gráficas de usuário (GUIs)
 - Ferramenta VsCode para codar
 
 ## 🧐 Processo de Criação
-
 Utilizei o Python como linguagem principal e a biblioteca do Tkinter para criar janelas, botões, caixas de texto, menus e 
 outros componentes gráficos. E VScode como ferramenta pois é possivel encontrar tudo no mesmo ambiente.
+
+## 💭 Reflexão
+Criar esse sistema foi algo desafiador para mim e uma experiência reveladora pois me mostrou que a linguagem Python é capaz de fazer
+tudo e um pouco mais.
+
+## 💡 Referência
+Desafio elaborado pelo Bootcamp Suzano - Python Developer da DIO
+
